@@ -7,4 +7,4 @@ print("Tu edad es: ", edad)
 print("Hola,",nombre, "tu tienes, ", edad, "años")
 # Tambien agrego una suma
 edad2 = int(edad) + 10
-print("Y en 10 años vas a tener",edad2, "años")
+print(nombre," Y en 10 años vas a tener",edad2, "años")
